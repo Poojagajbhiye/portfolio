@@ -11,19 +11,16 @@ const About = () => {
                 <img src={aboutPic}></img>
                 <div className='text-zone'>
                     <p>
-                        I specialize in developing scalable <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>Android</span> and <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>web</span> applications using <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>Flutter</span>.
+                        I’m a <span style={{ color: 'turquoise' }}>software engineer</span> with 5 years of experience <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>building scalable web and mobile applications while working closely with clients</span> and cross-functional teams to solve real-world business challenges. Skilled in <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>Angular</span> and <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>Flutter</span>, I enjoy <span style={{ color: 'turquoise' }}>bridging the gap between technical feasibility and user needs</span>, translating client feedback into reliable and maintainable solutions.
                     </p>
                     <p>
-                        Currently, I work as a <span style={{ color: 'turquoise' }}>Software Engineer</span> at <span style={{ color: 'turquoise' }}>Neuronic</span>, a Germany-based company, where I focus on enhancing app architecture and scalability. Working full-time from home, I am also exploring <span style={{ color: 'turquoise' }}>AWS</span> for backend development.
+                        Currently, I work remotely as a <span style={{ color: 'turquoise' }}>Software Engineer</span> at <span style={{ color: 'turquoise' }}>Neuronic</span>, a Germany-based startup, focusing on app architecture, core features like BLE communication, analytics, and testing, while exploring backend technologies including AWS. I collaborate closely with designers and product owners to ensure solutions align with both technical constraints and user expectations.
                     </p>
                     <p>
-                        Previously, I worked at <span style={{ color: 'turquoise' }}>LTIMindtree</span> as an <span style={{ color: 'turquoise' }}>Angular Developer</span> and gained valuable experience as a <span style={{ color: 'turquoise' }}>Business Analyst</span>.
+                        Previously at <span style={{ color: 'turquoise' }}>LTIMindtree</span>, I <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>led client-facing Proofs of Concept</span>, contributing to product features and helping stakeholders understand complex technical concepts. These experiences strengthened my ability <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>to develop solutions while building strong client relationships</span>.
                     </p>
                     <p>
-                        I have <span style={{ fontFamily: 'Nunito-SemiBold', color: 'turquoise' }}>independently</span> developed one <span style={{ fontFamily: 'Nunito-SemiBold', color: 'turquoise' }}>Android</span> application and <span style={{ fontFamily: 'Nunito-SemiBold', color: 'turquoise' }}>collaborated</span> on another using <span style={{ fontFamily: 'Nunito-SemiBold', color: 'turquoise' }}>Flutter</span>. While I no longer actively use Angular or React, I leverage React to build and maintain this portfolio.
-                    </p>
-                    <p>
-                        My goal is to build highly <span style={{ fontFamily: 'Nunito-Bold', color: 'turquoise' }}>scalable</span> applications and delve deeper into the world of <span style={{ fontFamily: 'Nunito-Bold', color: 'turquoise' }}>artificial intelligence</span>.
+                        My goal is to continue delivering <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>scalable, user-centered solutions</span> while deepening my expertise in backend, cloud, and AI-powered systems.
                     </p>
                     <p style={{ fontSize: '30px', lineHeight: '1.6' }}>
                         When I'm not working or building apps, I...<br />

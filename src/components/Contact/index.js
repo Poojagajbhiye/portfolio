@@ -21,10 +21,10 @@ const Contact = () => {
             <div className='container contact-page'>
                 <div className='text-zone'>
                     <h1 style={{ fontFamily: 'Nunito-Bold' }}>
-                        <AnimatedLetters letterClass={letterClass} strArray={['L', 'e', 't', 's', ' ', 'h', 'a', 'v', 'e', ' ', 'a', ' ', 'p', 'i', 'z', 'z', 'a', '!']} idx={7} />
+                        <AnimatedLetters letterClass={letterClass} strArray={['L', 'e', 't', '\'', 's', ' ', 'c', 'o', 'n', 'n', 'e', 'c', 't', '!']} idx={7} />
                     </h1>
                     <p>
-                        I want to professionally expand and work on building cross-platform applications. <br/><br/>
+                        I build cross-platform applications and deliver solutions that solve real-world client challenges. Always excited to collaborate and turn ideas into scalable, user-centered products. <br/><br/>
                         <img src={ContactImg} width={300} height={300}></img> <br/>
                         <a href='https://www.linkedin.com/in/pooja-gajbhiye-b94a46186/' target='_blank' rel='noopener noreferrer'>
                             <FontAwesomeIcon icon={faLinkedin} color='turquoise'/>
