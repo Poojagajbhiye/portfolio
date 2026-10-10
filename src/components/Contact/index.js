@@ -24,7 +24,7 @@ const Contact = () => {
                         <AnimatedLetters letterClass={letterClass} strArray={['L', 'e', 't', '\'', 's', ' ', 'c', 'o', 'n', 'n', 'e', 'c', 't', '!']} idx={7} />
                     </h1>
                     <p>
-                        I build cross-platform applications and deliver solutions that solve real-world client challenges. Always excited to collaborate and turn ideas into scalable, user-centered products. <br/><br/>
+                        I build full-stack web, mobile, and backend solutions for teams and users across international markets. Feel free to reach out about engineering opportunities, technical collaboration, or interesting product challenges. <br/><br/>
                         <img src={ContactImg} width={300} height={300}></img> <br/>
                         <a href='https://www.linkedin.com/in/pooja-gajbhiye-b94a46186/' target='_blank' rel='noopener noreferrer'>
                             <FontAwesomeIcon icon={faLinkedin} color='turquoise'/>

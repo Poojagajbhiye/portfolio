@@ -12,13 +12,12 @@ const Projects = () => (
         <div className='container projects-page'>
             <div className='project-description'>
                 <p>
-                    <span style={{ fontFamily: 'Nunito-Black', color: 'purple' }}>Wish Pool</span> is an android application developed single-handedly. It helps individuals to keep track of their wishes.
+                    <span style={{ fontFamily: 'Nunito-Black', color: 'purple' }}>Wish Pool</span> is a personal Flutter and Firebase app I built to help people organize and track their wishes.
                 </p>
-                <p class='small-para'>
+                <p className='small-para'>
                     <FontAwesomeIcon icon={faDotCircle}/> Includes light and dark theme modes for a good user experience. <br/>
                     <FontAwesomeIcon icon={faDotCircle}/> Built with Flutter and uses Provider package for state management. <br/>
                     <FontAwesomeIcon icon={faDotCircle}/> Uses Firebase as backend for user authentication and storing wishes. <br/>
-                    <FontAwesomeIcon icon={faDotCircle}/> Wishes are encrypted end to end. <br/>
                 </p>
             </div>
             <div className='stage-cube-cont'>
@@ -34,9 +33,9 @@ const Projects = () => (
             <hr></hr>
             <div className='project-description'>
                 <p>
-                    <span style={{ fontFamily: 'Nunito-Black', color: 'green' }}>CallAgri</span> is an android application developed in collaboration with another developer. Built to assist farmers in their daily farming activities.
+                    <span style={{ fontFamily: 'Nunito-Black', color: 'green' }}>CallAgri</span> is a collaborative Flutter and Firebase project designed to support farmers with everyday agricultural activities.
                 </p>
-                <p class='small-para'>
+                <p className='small-para'>
                     <FontAwesomeIcon icon={faDotCircle}/> Incorporates local language support for a good user experience. <br/>
                     <FontAwesomeIcon icon={faDotCircle}/> Built with Flutter and uses Riverpod 2.0 for state management. <br/>
                     <FontAwesomeIcon icon={faDotCircle}/> Uses Firebase as backend.<br/>

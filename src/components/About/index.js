@@ -11,16 +11,16 @@ const About = () => {
                 <img src={aboutPic}></img>
                 <div className='text-zone'>
                     <p>
-                        I’m a <span style={{ color: 'turquoise' }}>software engineer</span> with 5 years of experience <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>building scalable web and mobile applications while working closely with clients</span> and cross-functional teams to solve real-world business challenges. Skilled in <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>Angular</span> and <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>Flutter</span>, I enjoy <span style={{ color: 'turquoise' }}>bridging the gap between technical feasibility and user needs</span>, translating client feedback into reliable and maintainable solutions.
+                        I build software with the bigger picture in mind, from the experience users see to the systems that power it. I focus on creating reliable solutions that make an impact across borders.
                     </p>
                     <p>
-                        Currently, I work remotely as a <span style={{ color: 'turquoise' }}>Software Engineer</span> at <span style={{ color: 'turquoise' }}>Neuronic</span>, a Germany-based startup, focusing on app architecture, core features like BLE communication, analytics, and testing, while exploring backend technologies including AWS. I collaborate closely with designers and product owners to ensure solutions align with both technical constraints and user expectations.
+                        I'm a <span style={{ color: 'turquoise' }}>Full Stack Software Engineer</span> with 6+ years of experience delivering web, mobile, and backend systems for clients and users across India, North America, and Europe. I've collaborated with globally distributed teams in enterprise and startup environments.
                     </p>
                     <p>
-                        Previously at <span style={{ color: 'turquoise' }}>LTIMindtree</span>, I <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>led client-facing Proofs of Concept</span>, contributing to product features and helping stakeholders understand complex technical concepts. These experiences strengthened my ability <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>to develop solutions while building strong client relationships</span>.
+                        My work spans <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>end-to-end feature ownership, microservices, cloud migrations, and production reliability</span>. I've migrated 15+ backend services to GCP Cloud Run, reducing deployment times from hours to minutes, delivered features spanning 5 microservices, and contributed to full-stack automation that reduced manual verification effort by approximately 80%.
                     </p>
                     <p>
-                        My goal is to continue delivering <span style={{ fontFamily: 'Nunito-Black', color: 'turquoise' }}>scalable, user-centered solutions</span> while deepening my expertise in backend, cloud, and AI-powered systems.
+                        I work with Node.js, TypeScript, React, Angular, Flutter, GraphQL, PostgreSQL, GCP, and AWS. I enjoy turning complex requirements into maintainable products, and I'm especially interested in distributed systems and practical AI-powered applications.
                     </p>
                     <p style={{ fontSize: '30px', lineHeight: '1.6' }}>
                         When I'm not working or building apps, I...<br />
