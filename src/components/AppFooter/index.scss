@@ -15,3 +15,6 @@
         color: rgb(214, 216, 219);
     }
 }
+@media (max-width: 600px) {
+  .footer-separator { margin: 0 8px; }
+}

@@ -30,7 +30,7 @@ const Contact = () => {
                             <FontAwesomeIcon icon={faLinkedin} color='turquoise'/>
                         </a>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        <span style={{ fontFamily: 'Nunito-Regular', color:'turquoise', fontSize: '1em', verticalAlign: 'super' }}>poojagajbhiye563@gmail.com</span>
+                        <a href='mailto:poojagajbhiye563@gmail.com' style={{ fontFamily: 'Nunito-Regular', color:'turquoise', fontSize: '0.85em', overflowWrap: 'anywhere' }}>poojagajbhiye563@gmail.com</a>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <a href='https://github.com/Poojagajbhiye/Poojagajbhiye' target='_blank' rel='noopener noreferrer'>
                             <FontAwesomeIcon icon={faGithub} color='turquoise'/>
